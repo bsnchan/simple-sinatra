@@ -1,0 +1,5 @@
+---
+applications:
+- name: simple-sinatra
+  buildpack: ruby_buildpack
+  host: simple-sinatra
